@@ -6,7 +6,7 @@
 - I am writing this assignment while sitting in a hospital as my grandfather is seriously ill
 
 ### Features
-- Winston Loggin
+- Winston Logging
 - swagger for backend api documentation
 - Test cases using jest
 - Dockerisation
@@ -21,7 +21,11 @@ docker-compose up
 ```
 > Else
 ```
-git clone 
+git clone git@github.com:amulyakashyap09/avrioc.git
 cd avrioc
 npm start
 ```
+
+> Visit http://localhost:3000/swagger for the api specifications
+
+Thanks
